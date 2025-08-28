@@ -16,6 +16,6 @@ It includes difficulty levels, hints, achievements, and a high score system.
 
 ## 📂 Files:-
 - Guess_The_Number.c → The game code.
-- highscore.txt → It Stores the highest score ("This file is **Created Automatically** when you run the game. You dont't need to upload it.")
+- highscore.txt → It Stores the highest score ("This file is **Created Automatically** when you run the game. You don't need to upload it.")
 <br>
 Author - Jayanti Jha :)
